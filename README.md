@@ -1,9 +1,10 @@
 # LANL-Earthquake-Prediction
 
+## Time series forecasting project
+
 This project deals with a Kaggle competition : 
 https://www.kaggle.com/c/LANL-Earthquake-Prediction
 
-In this repository, you can find three notebooks :
+In this repository, you can find two notebooks :
 - Exploratory data analysis (EDA)
-- Machine learning model engineering
-- Final model
+- Deep learning model
